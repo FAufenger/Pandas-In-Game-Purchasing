@@ -15,7 +15,7 @@ Report shold appear as follows:
 ### Player Count
 * Total Number of Players
 
-
+![Player Count](./img/player_count.png)
 
 ### Purchasing Analysis (Total)
 * Number of Unique Items
@@ -23,13 +23,14 @@ Report shold appear as follows:
 * Total Number of Purchases
 * Total Revenue
 
-
+![Purchase Analysis: Total](./img/purchase_analysis_total.png)
 
 ### Gender Demographics
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
+![Gender Demographics](./img/gender_demographic.png)
 
 
 ### Purchasing Analysis (Gender)
@@ -39,6 +40,7 @@ Report shold appear as follows:
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
+![Purchase Analysis: Gender](./img/purchasing_analysis_gender.png)
 
 
 ### Age Demographics
@@ -48,6 +50,7 @@ Report shold appear as follows:
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
+![Age Demographics](./img/age_demographic.png)
 
 
 ### Top Spenders
@@ -57,6 +60,7 @@ Report shold appear as follows:
   * Average Purchase Price
   * Total Purchase Value
   
+![Top Spenders](./img/top_spender.png)
   
   
 ### Most Popular Items
@@ -67,7 +71,7 @@ Report shold appear as follows:
   * Item Price
   * Total Purchase Value
 
-
+![Most Popular Items](./img/most_popular_item.png)
 
 ### Most Profitable Items
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
@@ -77,6 +81,7 @@ Report shold appear as follows:
   * Item Price
   * Total Purchase Value
 
+![Most Profitable Items](./img/most_profitable_item.png)
 
 
 ## Observable trends:
